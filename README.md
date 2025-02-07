@@ -1,4 +1,4 @@
-## About Me
+# About Me
 
 My name is Cole Kleinschmidt and I do mostly full-stack development
 
@@ -32,15 +32,15 @@ My name is Cole Kleinschmidt and I do mostly full-stack development
   <a href="https://x.com/colebklein"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge" /></a>
   <a href="mailto:kleinschmidtcole@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" /></a>
 
-## Projects
+# Projects
 - <a href="https://www.lootdle.com"> 🎮Lootdle.com</a> - a video game-based Wordle website for video game loot and items
 - <a href="https://www.lootdle.com"> 🔒</a> - a social media website
 
-## Websites
+# Websites
 - <a href="https://robustwinebar.com/"> Robust Wine Bar</a> - a St. Louis wine bar and bistro
 - <a href="https://wgcommunitydays.org/"> WG Community Days</a> - a local events website
 
-## My Tech Stack
+# My Tech Stack
 
 <div display="flex">
   <img src="https://img.shields.io/badge/MongoDB-001d2a.svg?style=for-the-badge&logo=mongodb&logoColor=00ec63" alt="MongoDB"/>
