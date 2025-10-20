@@ -5,7 +5,7 @@ My name is Cole Kleinschmidt and I do mostly full-stack development
 ### ☕ Current Project(s)
 
 - 🎮 Lootdle, a video game-based Wordle website
-- 🔒 Secret Social Media project
+- 🔒 TopX, a social media website
 
 ### 📚 Currently Learning
 
